@@ -1,0 +1,13 @@
+.idea
+.vscode
+nbproject
+limpaTAB.php
+*~
+messdetector.txt
+config.json
+local
+vendor
+build
+composer.lock
+composer.phar
+.buildpath
